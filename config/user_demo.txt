@@ -1,1 +1,5 @@
 
+频道分类,#genre#
+CCTV1
+CCTV2
+CCTV3
