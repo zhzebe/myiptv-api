@@ -1,6 +1,7 @@
-Name: CCTV-1, URL: http://wouu.net:9977/udp/239.93.0.184:5140, IPv_Type: ipv4, Date: None, Delay: 743 ms, Speed: 0.00 M/s, Resolution: 1920x1080
-Name: CCTV-1, URL: https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream05/streamPlaylist.m3u8, IPv_Type: ipv4, Date: None, Delay: 1832 ms, Speed: 9.53 M/s, Resolution: 1920x1080
-Name: CCTV-2, URL: http://wouu.net:9977/udp/239.93.1.23:6000, IPv_Type: ipv4, Date: None, Delay: 504 ms, Speed: 0.00 M/s, Resolution: 1920x1080
-Name: CCTV-3, URL: http://wouu.net:9977/udp/239.93.1.11:2223, IPv_Type: ipv4, Date: None, Delay: 484 ms, Speed: 0.00 M/s, Resolution: 1920x1080
-Name: CCTV-6, URL: http://wouu.net:9977/udp/239.93.1.13:2226, IPv_Type: ipv4, Date: None, Delay: 507 ms, Speed: 0.00 M/s, Resolution: 1920x1080
-Name: CCTV-7, URL: https://www.freetv.top/migu/673168121.m3u8?migutoken=11284a6f3b3b2fa213fe083e46e96de1056fd7727d3d02e2cb4c2eb6c9994c51a6d20f333eba2d4739cee8fe8d82b5a8ed95fbfa87d5df4d792df3f436e23df7ce80f601e526e1e967f1479a14, IPv_Type: ipv4, Date: None, Delay: 52 ms, Speed: 9.64 M/s, Resolution: 1920x1080
+Name: CCTV-1, URL: http://wouu.net:9977/udp/239.93.0.184:5140, IPv_Type: ipv4, Date: None, Delay: 611 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: CCTV-1, URL: https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream05/streamPlaylist.m3u8, IPv_Type: ipv4, Date: None, Delay: 814 ms, Speed: 16.84 M/s, Resolution: 1920x1080
+Name: CCTV-2, URL: http://wouu.net:9977/udp/239.93.1.23:6000, IPv_Type: ipv4, Date: None, Delay: 608 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: CCTV-3, URL: http://wouu.net:9977/udp/239.93.1.11:2223, IPv_Type: ipv4, Date: None, Delay: 633 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: CCTV-6, URL: http://wouu.net:9977/udp/239.93.1.13:2226, IPv_Type: ipv4, Date: None, Delay: 614 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: CCTV-6, URL: http://222.134.245.16:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0, IPv_Type: ipv4, Date: None, Delay: 9685 ms, Speed: 0.56 M/s, Resolution: None
+Name: CCTV-7, URL: https://www.freetv.top/migu/673168121.m3u8?migutoken=11284a6f3b3b2fa213fe083e46e96de1056fd7727d3d02e2cb4c2eb6c9994c51a6d20f333eba2d4739cee8fe8d82b5a8ed95fbfa87d5df4d792df3f436e23df7ce80f601e526e1e967f1479a14, IPv_Type: ipv4, Date: None, Delay: 49 ms, Speed: 9.62 M/s, Resolution: 1920x1080
