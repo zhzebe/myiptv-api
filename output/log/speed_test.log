@@ -1,6 +1,6 @@
-Name: CCTV-1, URL: http://wouu.net:9977/udp/239.93.0.184:5140, IPv_Type: ipv4, Date: None, Delay: 851 ms, Speed: 0.00 M/s, Resolution: 1920x1080
-Name: CCTV-1, URL: https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream05/streamPlaylist.m3u8, IPv_Type: ipv4, Date: None, Delay: 1676 ms, Speed: 5.93 M/s, Resolution: 1920x1080
-Name: CCTV-2, URL: http://wouu.net:9977/udp/239.93.1.23:6000, IPv_Type: ipv4, Date: None, Delay: 858 ms, Speed: 0.00 M/s, Resolution: 1920x1080
-Name: CCTV-3, URL: http://wouu.net:9977/udp/239.93.1.11:2223, IPv_Type: ipv4, Date: None, Delay: 846 ms, Speed: 0.00 M/s, Resolution: 1920x1080
-Name: CCTV-6, URL: http://wouu.net:9977/udp/239.93.1.13:2226, IPv_Type: ipv4, Date: None, Delay: 850 ms, Speed: 0.00 M/s, Resolution: 1920x1080
-Name: CCTV-7, URL: https://www.freetv.top/migu/673168121.m3u8?migutoken=11284a6f3b3b2fa213fe083e46e96de1056fd7727d3d02e2cb4c2eb6c9994c51a6d20f333eba2d4739cee8fe8d82b5a8ed95fbfa87d5df4d792df3f436e23df7ce80f601e526e1e967f1479a14, IPv_Type: ipv4, Date: None, Delay: 26 ms, Speed: 18.23 M/s, Resolution: 1920x1080
+Name: CCTV-1, URL: http://wouu.net:9977/udp/239.93.0.184:5140, IPv_Type: ipv4, Date: None, Delay: 527 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: CCTV-1, URL: https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream05/streamPlaylist.m3u8, IPv_Type: ipv4, Date: None, Delay: 110 ms, Speed: 72.64 M/s, Resolution: 1920x1080
+Name: CCTV-2, URL: http://wouu.net:9977/udp/239.93.1.23:6000, IPv_Type: ipv4, Date: None, Delay: 515 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: CCTV-3, URL: http://wouu.net:9977/udp/239.93.1.11:2223, IPv_Type: ipv4, Date: None, Delay: 730 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: CCTV-6, URL: http://wouu.net:9977/udp/239.93.1.13:2226, IPv_Type: ipv4, Date: None, Delay: 498 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: CCTV-7, URL: https://www.freetv.top/migu/673168121.m3u8?migutoken=11284a6f3b3b2fa213fe083e46e96de1056fd7727d3d02e2cb4c2eb6c9994c51a6d20f333eba2d4739cee8fe8d82b5a8ed95fbfa87d5df4d792df3f436e23df7ce80f601e526e1e967f1479a14, IPv_Type: ipv4, Date: None, Delay: 22 ms, Speed: 19.96 M/s, Resolution: 1920x1080
