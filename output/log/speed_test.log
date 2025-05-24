@@ -1,6 +1,4 @@
-Name: CCTV-1, URL: https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream05/streamPlaylist.m3u8, IPv_Type: ipv4, Date: None, Delay: 108 ms, Speed: 68.80 M/s, Resolution: 1920x1080
-Name: CCTV-1, URL: http://101.66.194.212:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=0&authid=0, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: CCTV-2, URL: http://101.66.194.212:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=0&authid=0, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: CCTV-7, URL: https://www.freetv.top/migu/673168121.m3u8?migutoken=11284a6f3b3b2fa213fe083e46e96de1056fd7727d3d02e2cb4c2eb6c9994c51a6d20f333eba2d4739cee8fe8d82b5a8ed95fbfa87d5df4d792df3f436e23df7ce80f601e526e1e967f1479a14, IPv_Type: ipv4, Date: None, Delay: 106 ms, Speed: 3.83 M/s, Resolution: 1920x1080
-Name: CCTV-9, URL: http://1.198.30.184:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0, IPv_Type: ipv4, Date: None, Delay: 9306 ms, Speed: 0.70 M/s, Resolution: None
-Name: CCTV-9, URL: http://113.15.109.216:59901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: CCTV-1, URL: https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream05/streamPlaylist.m3u8, IPv_Type: ipv4, Date: None, Delay: 1245 ms, Speed: 8.02 M/s, Resolution: 1920x1080
+Name: CCTV-5+, URL: http://112.123.243.37:50085/tsfile/live/0006_1.m3u8, IPv_Type: ipv4, Date: None, Delay: 10650 ms, Speed: 0.57 M/s, Resolution: None
+Name: CCTV-7, URL: https://www.freetv.top/migu/673168121.m3u8?migutoken=11284a6f3b3b2fa213fe083e46e96de1056fd7727d3d02e2cb4c2eb6c9994c51a6d20f333eba2d4739cee8fe8d82b5a8ed95fbfa87d5df4d792df3f436e23df7ce80f601e526e1e967f1479a14, IPv_Type: ipv4, Date: None, Delay: 25 ms, Speed: 21.25 M/s, Resolution: 1920x1080
+Name: CCTV-9, URL: http://1.198.30.184:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0, IPv_Type: ipv4, Date: None, Delay: 10757 ms, Speed: 0.22 M/s, Resolution: None
