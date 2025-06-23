@@ -1,5 +1,4 @@
 🕘️更新时间,#genre#
-2025-06-23 06:22:57,http://fxgm.fxjf.work:19901/tsfile/live/0007_1.m3u8
+2025-06-23 18:28:01,url
 
 📺央视频道,#genre#
-CCTV-7,http://fxgm.fxjf.work:19901/tsfile/live/0007_1.m3u8
