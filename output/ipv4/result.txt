@@ -1,4 +1,5 @@
 🕘️更新时间,#genre#
-2025-06-25 18:27:36,url
+2025-06-26 06:23:58,http://templaralone.asuscomm.com:35455/mgtv/641886773.m3u8
 
 📺央视频道,#genre#
+CCTV-5+,http://templaralone.asuscomm.com:35455/mgtv/641886773.m3u8
