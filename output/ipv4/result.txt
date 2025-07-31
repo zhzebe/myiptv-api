@@ -1,5 +1,4 @@
 🕘️更新时间,#genre#
-2025-07-31 18:29:58,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221225802/index.m3u8
+2025-08-01 06:26:36,url
 
 📺央视频道,#genre#
-CCTV-4,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221225802/index.m3u8
