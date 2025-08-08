@@ -1,0 +1,3 @@
+Name: CCTV-7, URL: http://121.17.146.188:50003/hls/7/index.m3u8, IPv_Type: ipv4, Date: None, Delay: 10355 ms, Speed: 0.00 M/s, Resolution: None
+Name: CCTV-7, URL: http://101.66.198.183:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=0&authid=0, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: CCTV-7, URL: http://101.66.198.35:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=0&authid=0, IPv_Type: ipv4, Date: None, Delay: 10099 ms, Speed: 0.00 M/s, Resolution: None
