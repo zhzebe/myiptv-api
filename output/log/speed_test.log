@@ -1,0 +1,4 @@
+Name: CCTV-5+, URL: http://push-rtmp-hs-spe-f5.douyincdn.com/live/fhtv_cctv5p.flv, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: CCTV-7, URL: http://112.123.243.37:50085/tsfile/live/0008_1.m3u8, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: CCTV-7, URL: http://116.128.242.83:9901/tsfile/live/0008_1.m3u8, IPv_Type: ipv4, Date: None, Delay: 10801 ms, Speed: 0.01 M/s, Resolution: None
+Name: CCTV-8, URL: http://183.215.134.239:19901/tsfile/live/0008_1.m3u8, IPv_Type: ipv4, Date: None, Delay: 10458 ms, Speed: 0.20 M/s, Resolution: 1920x1080
