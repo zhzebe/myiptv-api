@@ -1,5 +1,4 @@
 🕘️更新时间,#genre#
-2025-08-22 18:26:27,http://101.66.199.161:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=0&authid=0
+2025-08-23 06:22:34,url
 
 📺央视频道,#genre#
-CCTV-7,http://101.66.199.161:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=0&authid=0
