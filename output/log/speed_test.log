@@ -1,0 +1,10 @@
+Name: CCTV-2, URL: http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/cctv2HD/__op/default/__f/index.m3u8, IPv_Type: ipv4, Date: None, Delay: 10232 ms, Speed: 1.06 M/s, Resolution: None
+Name: CCTV-3, URL: http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/cctv3HD/__op/default/__f/index.m3u8, IPv_Type: ipv4, Date: None, Delay: 10252 ms, Speed: 1.21 M/s, Resolution: 0x0
+Name: CCTV-4, URL: http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/cctv4HD/__op/default/__f/index.m3u8, IPv_Type: ipv4, Date: None, Delay: 10128 ms, Speed: 1.24 M/s, Resolution: 1920x1080
+Name: CCTV-5, URL: http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/cctv5HD/__op/default/__f/index.m3u8, IPv_Type: ipv4, Date: None, Delay: 10213 ms, Speed: 1.21 M/s, Resolution: 1920x1080
+Name: CCTV-5+, URL: http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/cctv5SportHD/__op/default/__f/index.m3u8, IPv_Type: ipv4, Date: None, Delay: 10147 ms, Speed: 1.26 M/s, Resolution: 1920x1080
+Name: CCTV-6, URL: http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/cctv6HD/__op/default/__f/index.m3u8, IPv_Type: ipv4, Date: None, Delay: 7422 ms, Speed: 0.89 M/s, Resolution: 1920x1080
+Name: CCTV-7, URL: http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/cctv7HD/__op/default/__f/index.m3u8, IPv_Type: ipv4, Date: None, Delay: 8647 ms, Speed: 1.45 M/s, Resolution: 1920x1080
+Name: CCTV-8, URL: http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/cctv8HD/__op/default/__f/index.m3u8, IPv_Type: ipv4, Date: None, Delay: 10107 ms, Speed: 1.51 M/s, Resolution: 1920x1080
+Name: CCTV-9, URL: http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/cctv9HD/__op/default/__f/index.m3u8, IPv_Type: ipv4, Date: None, Delay: 10175 ms, Speed: 1.32 M/s, Resolution: None
+Name: CCTV-10, URL: http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/cctv10HD/__op/default/__f/index.m3u8, IPv_Type: ipv4, Date: None, Delay: 5339 ms, Speed: 1.94 M/s, Resolution: 1920x1080
