@@ -1,2 +1,9 @@
-Name: CCTV-4, URL: http://101.66.199.113:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=0&authid=0, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: CCTV-4, URL: http://101.66.199.198:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=0&authid=0, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: CCTV-1, URL: http://8.134.110.147:5300/?id=cctv1, IPv_Type: ipv4, Date: None, Delay: 1499 ms, Speed: 0.54 M/s, Resolution: 854x480
+Name: CCTV-2, URL: http://8.134.110.147:5300/?id=cctv2, IPv_Type: ipv4, Date: None, Delay: 1372 ms, Speed: 0.47 M/s, Resolution: 854x480
+Name: CCTV-3, URL: http://8.134.110.147:5300/?id=cctv3, IPv_Type: ipv4, Date: None, Delay: 1520 ms, Speed: 0.59 M/s, Resolution: 854x480
+Name: CCTV-4, URL: http://8.134.110.147:5300/?id=cctv4, IPv_Type: ipv4, Date: None, Delay: 1836 ms, Speed: 0.76 M/s, Resolution: 854x480
+Name: CCTV-6, URL: http://8.134.110.147:5300/?id=cctv6, IPv_Type: ipv4, Date: None, Delay: 1462 ms, Speed: 0.66 M/s, Resolution: 854x480
+Name: CCTV-7, URL: http://8.134.110.147:5300/?id=cctv7, IPv_Type: ipv4, Date: None, Delay: 1699 ms, Speed: 0.72 M/s, Resolution: 854x480
+Name: CCTV-8, URL: http://8.134.110.147:5300/?id=cctv8, IPv_Type: ipv4, Date: None, Delay: 1721 ms, Speed: 0.76 M/s, Resolution: 854x480
+Name: CCTV-9, URL: http://8.134.110.147:5300/?id=cctv9, IPv_Type: ipv4, Date: None, Delay: 1691 ms, Speed: 0.86 M/s, Resolution: 854x480
+Name: CCTV-10, URL: http://8.134.110.147:5300/?id=cctv10, IPv_Type: ipv4, Date: None, Delay: 1747 ms, Speed: 0.65 M/s, Resolution: 854x480
