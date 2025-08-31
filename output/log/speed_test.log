@@ -1,0 +1,6 @@
+Name: CCTV-5+, URL: http://113.26.202.52:1299/tsfile/live/0016_1.m3u8, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: CCTV-6, URL: http://113.26.202.52:1299/tsfile/live/0006_1.m3u8, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: CCTV-7, URL: http://113.26.202.52:1299/tsfile/live/0007_1.m3u8, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: CCTV-9, URL: http://113.26.202.52:1299/tsfile/live/0009_1.m3u8, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: CCTV-10, URL: http://113.15.109.216:59901/tsfile/live/0010_1.m3u8, IPv_Type: ipv4, Date: None, Delay: 10125 ms, Speed: 0.05 M/s, Resolution: None
+Name: CCTV-10, URL: http://113.26.202.52:1299/tsfile/live/0010_1.m3u8, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
