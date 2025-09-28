@@ -1,5 +1,4 @@
 🕘️更新时间,#genre#
-2025-09-28 18:21:15,http://ha.wheel.duolebo.com/live.m3u8?p=bea7cd5b-d4cd-4d5f-9408-eb6df9ce08f3&c=1857461344&m3u8=true
+2025-09-29 06:21:43,url
 
 📺央视频道,#genre#
-CCTV-3,http://ha.wheel.duolebo.com/live.m3u8?p=bea7cd5b-d4cd-4d5f-9408-eb6df9ce08f3&c=1857461344&m3u8=true
