@@ -1,3 +1,3 @@
-Name: CCTV-5, URL: http://1.31.14.70:54321/hls/7/index.m3u8, IPv_Type: ipv4, Date: None, Delay: 3939 ms, Speed: 1.53 M/s, Resolution: 1920x1080
-Name: CCTV-6, URL: http://1.31.14.70:54321/hls/8/index.m3u8, IPv_Type: ipv4, Date: None, Delay: 3604 ms, Speed: 1.37 M/s, Resolution: 1920x1080
-Name: CCTV-8, URL: http://1.31.14.70:54321/hls/14/index.m3u8, IPv_Type: ipv4, Date: None, Delay: 4041 ms, Speed: 1.53 M/s, Resolution: 1920x1080
+Name: CCTV-5, URL: http://1.31.14.70:54321/hls/7/index.m3u8, IPv_Type: ipv4, Date: None, Delay: 10618 ms, Speed: 0.16 M/s, Resolution: 1920x1080
+Name: CCTV-6, URL: http://1.31.14.70:54321/hls/8/index.m3u8, IPv_Type: ipv4, Date: None, Delay: 10659 ms, Speed: 0.13 M/s, Resolution: 1920x1080
+Name: CCTV-8, URL: http://1.31.14.70:54321/hls/14/index.m3u8, IPv_Type: ipv4, Date: None, Delay: 10997 ms, Speed: 0.05 M/s, Resolution: 1920x1080
