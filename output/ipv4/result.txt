@@ -1,6 +1,4 @@
 🕘️更新时间,#genre#
-2025-10-29 06:24:47,http://sh.lnott.top:880/dx01.m3u8
+2025-10-29 18:27:03,url
 
 📺央视频道,#genre#
-CCTV-1,http://sh.lnott.top:880/dx01.m3u8
-CCTV-7,http://sh.lnott.top:880/dx07.m3u8
