@@ -1,4 +1,9 @@
 🕘️更新时间,#genre#
-2025-12-09 18:30:43,url
+2025-12-10 06:24:12,http://play.kankanlive.com/live/1698234869325962.m3u8
 
 📺央视频道,#genre#
+CCTV-1,http://play.kankanlive.com/live/1698234869325962.m3u8
+CCTV-2,https://play.kankanlive.com/live/1698234898628961.m3u8
+CCTV-4,https://play.kankanlive.com/live/1698234936258960.m3u8
+CCTV-9,https://play.kankanlive.com/live/1698423397390920.m3u8
+CCTV-10,https://play.kankanlive.com/live/1698423445959919.m3u8
