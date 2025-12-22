@@ -1,0 +1,7 @@
+Name: CCTV-1, URL: http://120.211.62.180:8000/hls/1/index.m3u8, IPv_Type: ipv4, Date: None, Delay: 10767 ms, Speed: 0.01 M/s, Resolution: None
+Name: CCTV-2, URL: http://120.211.62.180:8000/hls/2/index.m3u8, IPv_Type: ipv4, Date: None, Delay: 10186 ms, Speed: 0.00 M/s, Resolution: None
+Name: CCTV-4, URL: http://120.211.62.180:8000/hls/4/index.m3u8, IPv_Type: ipv4, Date: None, Delay: 10190 ms, Speed: 0.00 M/s, Resolution: None
+Name: CCTV-5+, URL: http://120.211.62.180:8000/hls/18/index.m3u8, IPv_Type: ipv4, Date: None, Delay: 4468 ms, Speed: 0.00 M/s, Resolution: None
+Name: CCTV-7, URL: http://120.211.62.180:8000/hls/7/index.m3u8, IPv_Type: ipv4, Date: None, Delay: 10554 ms, Speed: 0.01 M/s, Resolution: None
+Name: CCTV-9, URL: http://120.211.62.180:8000/hls/9/index.m3u8, IPv_Type: ipv4, Date: None, Delay: 10195 ms, Speed: 0.00 M/s, Resolution: None
+Name: CCTV-10, URL: http://120.211.62.180:8000/hls/10/index.m3u8, IPv_Type: ipv4, Date: None, Delay: 10570 ms, Speed: 0.01 M/s, Resolution: None
