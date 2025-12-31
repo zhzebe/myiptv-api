@@ -1,18 +1,4 @@
 🕘️更新时间,#genre#
-2025-12-31 18:28:27,http://39.152.103.17:8089/tsfile/live/1001_1.m3u8
+2026-01-01 06:25:55,url
 
 📺央视频道,#genre#
-CCTV-2,http://39.152.103.17:8089/tsfile/live/1001_1.m3u8
-CCTV-2,http://27.41.245.32:801/hls/2/index.m3u8
-CCTV-3,http://39.152.103.17:8089/tsfile/live/1002_1.m3u8
-CCTV-4,http://39.152.103.17:8089/tsfile/live/1003_1.m3u8
-CCTV-5,http://27.41.245.32:801/hls/5/index.m3u8
-CCTV-5,http://39.152.103.17:8089/tsfile/live/1004_1.m3u8
-CCTV-6,http://27.41.245.32:801/hls/6/index.m3u8
-CCTV-6,http://39.152.103.17:8089/tsfile/live/1005_1.m3u8
-CCTV-7,http://27.41.245.32:801/hls/7/index.m3u8
-CCTV-7,http://39.152.103.17:8089/tsfile/live/1006_1.m3u8
-CCTV-8,http://27.41.245.32:801/hls/8/index.m3u8
-CCTV-8,http://39.152.103.17:8089/tsfile/live/1007_1.m3u8
-CCTV-9,http://39.152.103.17:8089/tsfile/live/1008_1.m3u8
-CCTV-9,http://27.41.245.32:801/hls/9/index.m3u8
