@@ -1,10 +1,7 @@
 🕘️更新时间,#genre#
-2026-01-13 06:24:13,http://23.237.228.134/live5/CCTV3.m3u8
+2026-01-13 18:30:38,http://23.237.228.134/live5/CCTV3.m3u8
 
 📺央视频道,#genre#
 CCTV-3,http://23.237.228.134/live5/CCTV3.m3u8
 CCTV-5,http://23.237.228.134/live5/CCTV5.m3u8
-CCTV-5,http://23.237.228.134/live5/CCTV5p.m3u8
 CCTV-8,http://23.237.228.134/live5/CCTV8.m3u8
-CCTV-8,http://218.17.33.178:53290/tsfile/live/1008_1.m3u8
-CCTV-9,http://btjg.net:809/hls/9/index.m3u8
