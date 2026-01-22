@@ -1,8 +1,8 @@
-Name: CCTV-1, URL: http://23.237.228.134/live5/CCTV1.m3u8, IPv_Type: ipv4, Date: None, Delay: 393 ms, Speed: 5.03 M/s, Resolution: 1920x1080
-Name: CCTV-2, URL: http://23.237.228.134/live5/CCTV2.m3u8, IPv_Type: ipv4, Date: None, Delay: 420 ms, Speed: 6.85 M/s, Resolution: 1920x1080
-Name: CCTV-3, URL: http://23.237.228.134/live5/CCTV3.m3u8, IPv_Type: ipv4, Date: None, Delay: 427 ms, Speed: 6.33 M/s, Resolution: 1920x1080
-Name: CCTV-5, URL: http://23.237.228.134/live5/CCTV5p.m3u8, IPv_Type: ipv4, Date: None, Delay: 1401 ms, Speed: 2.94 M/s, Resolution: 1920x1080
-Name: CCTV-5, URL: http://23.237.228.134/live5/CCTV5.m3u8, IPv_Type: ipv4, Date: None, Delay: 405 ms, Speed: 6.12 M/s, Resolution: 1920x1080
-Name: CCTV-7, URL: http://23.237.228.134/live5/CCTV7.m3u8, IPv_Type: ipv4, Date: None, Delay: 404 ms, Speed: 6.17 M/s, Resolution: 1920x1080
-Name: CCTV-9, URL: http://23.237.228.134/live5/CCTV9.m3u8, IPv_Type: ipv4, Date: None, Delay: 404 ms, Speed: 5.80 M/s, Resolution: 1920x1080
-Name: CCTV-10, URL: http://23.237.228.134/live5/CCTV10.m3u8, IPv_Type: ipv4, Date: None, Delay: 397 ms, Speed: 4.74 M/s, Resolution: 1920x1080
+Name: CCTV-1, URL: http://23.237.228.134/live5/CCTV1.m3u8, IPv_Type: ipv4, Date: None, Delay: 1066 ms, Speed: 2.40 M/s, Resolution: 1920x1080
+Name: CCTV-2, URL: http://23.237.228.134/live5/CCTV2.m3u8, IPv_Type: ipv4, Date: None, Delay: 660 ms, Speed: 3.81 M/s, Resolution: 1920x1080
+Name: CCTV-3, URL: http://23.237.228.134/live5/CCTV3.m3u8, IPv_Type: ipv4, Date: None, Delay: 654 ms, Speed: 3.82 M/s, Resolution: 1920x1080
+Name: CCTV-5, URL: http://23.237.228.134/live5/CCTV5.m3u8, IPv_Type: ipv4, Date: None, Delay: 633 ms, Speed: 3.37 M/s, Resolution: 1920x1080
+Name: CCTV-5, URL: http://23.237.228.134/live5/CCTV5p.m3u8, IPv_Type: ipv4, Date: None, Delay: 664 ms, Speed: 4.07 M/s, Resolution: 1920x1080
+Name: CCTV-7, URL: http://23.237.228.134/live5/CCTV7.m3u8, IPv_Type: ipv4, Date: None, Delay: 618 ms, Speed: 3.36 M/s, Resolution: 1920x1080
+Name: CCTV-9, URL: http://23.237.228.134/live5/CCTV9.m3u8, IPv_Type: ipv4, Date: None, Delay: 624 ms, Speed: 3.19 M/s, Resolution: 1920x1080
+Name: CCTV-10, URL: http://23.237.228.134/live5/CCTV10.m3u8, IPv_Type: ipv4, Date: None, Delay: 630 ms, Speed: 4.35 M/s, Resolution: 1920x1080
