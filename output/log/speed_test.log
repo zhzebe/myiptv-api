@@ -1,2 +1,1 @@
-Name: CCTV-5, URL: http://192.151.150.154/live/cctv5hd.m3u8, IPv_Type: ipv4, Date: None, Delay: 330 ms, Speed: 7.30 M/s, Resolution: 1280x720
-Name: CCTV-10, URL: https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8, IPv_Type: ipv4, Date: None, Delay: 3247 ms, Speed: 0.51 M/s, Resolution: None
+Name: CCTV-10, URL: https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8, IPv_Type: ipv4, Date: None, Delay: 3381 ms, Speed: 0.47 M/s, Resolution: None
