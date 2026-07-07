@@ -1,5 +1,9 @@
 🕘️更新时间,#genre#
-2026-07-07 07:13:05,https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8
+2026-07-07 20:30:18,http://60.10.139.113:8801/hls/2/index.m3u8
 
 📺央视频道,#genre#
+CCTV-2,http://60.10.139.113:8801/hls/2/index.m3u8
+CCTV-3,http://153.0.171.163:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-7,http://222.223.41.27:8888/hls/7/index.m3u8
 CCTV-10,https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8
+CCTV-10,http://101.66.199.29:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=0&authid=0
