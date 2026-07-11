@@ -1,1 +1,5 @@
-Name: CCTV-10, URL: https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8, IPv_Type: ipv4, Date: None, Delay: 3231 ms, Speed: 0.51 M/s, Resolution: None
+Name: CCTV-6, URL: http://115.48.161.108:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0, IPv_Type: ipv4, Date: None, Delay: 10540 ms, Speed: 0.00 M/s, Resolution: None
+Name: CCTV-7, URL: http://115.48.161.108:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0, IPv_Type: ipv4, Date: None, Delay: 10158 ms, Speed: 0.00 M/s, Resolution: None
+Name: CCTV-8, URL: http://115.48.161.108:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0, IPv_Type: ipv4, Date: None, Delay: 10149 ms, Speed: 0.00 M/s, Resolution: None
+Name: CCTV-10, URL: https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8, IPv_Type: ipv4, Date: None, Delay: 2636 ms, Speed: 0.56 M/s, Resolution: None
+Name: CCTV-10, URL: http://115.48.161.108:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0, IPv_Type: ipv4, Date: None, Delay: 10150 ms, Speed: 0.00 M/s, Resolution: None
