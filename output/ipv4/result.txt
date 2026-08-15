@@ -1,8 +1,13 @@
 🕘️更新时间,#genre#
-2026-08-15 06:28:31,http://139.227.21.22:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
+2026-08-16 06:27:11,http://139.227.21.22:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
 
 📺央视频道,#genre#
-CCTV-5,http://139.227.21.22:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-5,http://220.192.165.126:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-7,http://123.118.53.84:45237/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-2,http://139.227.21.22:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-5+,http://1.190.240.47:9003/hls/3018/index.m3u8
+CCTV-5+,http://123.175.209.118:9003/hls/6/index.m3u8
+CCTV-6,http://123.175.209.118:9003/hls/7/index.m3u8
+CCTV-6,http://139.227.21.22:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-7,http://123.175.209.118:9003/hls/8/index.m3u8
+CCTV-8,http://123.175.209.118:9003/hls/9/index.m3u8
 CCTV-10,https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8
+CCTV-10,http://123.175.209.118:9003/hls/11/index.m3u8
