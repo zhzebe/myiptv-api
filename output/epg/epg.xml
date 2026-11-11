@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20261111014552 +0800">
+<tv date="20261111174653 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -887,6 +887,72 @@
 	</programme>
 	<programme channel="CCTV-1" start="20261113010200 +0800" stop="20261113013200 +0800">
 		<title lang="zh">今日说法</title>
+	</programme>
+	<programme channel="CCTV-1" start="20261113013200 +0800" stop="20261113020400 +0800">
+		<title lang="zh">晚间新闻</title>
+	</programme>
+	<programme channel="CCTV-1" start="20261113020400 +0800" stop="20261113023400 +0800">
+		<title lang="zh">农耕探文明(2)</title>
+	</programme>
+	<programme channel="CCTV-1" start="20261113023400 +0800" stop="20261113024400 +0800">
+		<title lang="zh">中华古树：四川平武珂楠树</title>
+	</programme>
+	<programme channel="CCTV-1" start="20261113024400 +0800" stop="20261113025200 +0800">
+		<title lang="zh">《非遗里的中国》MV</title>
+	</programme>
+	<programme channel="CCTV-1" start="20261113025200 +0800" stop="20261113042000 +0800">
+		<title lang="zh">三餐四季Ⅲ(1)</title>
+	</programme>
+	<programme channel="CCTV-1" start="20261113042000 +0800" stop="20261113042200 +0800">
+		<title lang="zh">泱泱中华-历史文化街区(1)</title>
+	</programme>
+	<programme channel="CCTV-1" start="20261113042200 +0800" stop="20261113045200 +0800">
+		<title lang="zh">今日说法</title>
+	</programme>
+	<programme channel="CCTV-1" start="20261113045200 +0800" stop="20261113052700 +0800">
+		<title lang="zh">新闻联播</title>
+	</programme>
+	<programme channel="CCTV-1" start="20261113052700 +0800" stop="20261113055900 +0800">
+		<title lang="zh">自然中国：探秘哀牢山-守望共生</title>
+	</programme>
+	<programme channel="CCTV-1" start="20261113055900 +0800" stop="20261113060000 +0800">
+		<title lang="zh">中华人民共和国国歌</title>
+	</programme>
+	<programme channel="CCTV-1" start="20261113060000 +0800" stop="20261113070000 +0800">
+		<title lang="zh">朝闻天下</title>
+	</programme>
+	<programme channel="CCTV-1" start="20261113070000 +0800" stop="20261113070100 +0800">
+		<title lang="zh">中华人民共和国国歌</title>
+	</programme>
+	<programme channel="CCTV-1" start="20261113070100 +0800" stop="20261113083600 +0800">
+		<title lang="zh">朝闻天下</title>
+	</programme>
+	<programme channel="CCTV-1" start="20261113083600 +0800" stop="20261113092200 +0800">
+		<title lang="zh">生活圈</title>
+	</programme>
+	<programme channel="CCTV-1" start="20261113092200 +0800" stop="20261113101200 +0800">
+		<title lang="zh">谷雨(4)</title>
+	</programme>
+	<programme channel="CCTV-1" start="20261113101200 +0800" stop="20261113110100 +0800">
+		<title lang="zh">谷雨(5)</title>
+	</programme>
+	<programme channel="CCTV-1" start="20261113110100 +0800" stop="20261113114800 +0800">
+		<title lang="zh">谷雨(6)</title>
+	</programme>
+	<programme channel="CCTV-1" start="20261113114800 +0800" stop="20261113115400 +0800">
+		<title lang="zh">《非遗里的中国》MV</title>
+	</programme>
+	<programme channel="CCTV-1" start="20261113115400 +0800" stop="20261113120000 +0800">
+		<title lang="zh">秘境之眼</title>
+	</programme>
+	<programme channel="CCTV-1" start="20261113120000 +0800" stop="20261113123500 +0800">
+		<title lang="zh">新闻30分</title>
+	</programme>
+	<programme channel="CCTV-1" start="20261113123500 +0800" stop="20261113130700 +0800">
+		<title lang="zh">今日说法</title>
+	</programme>
+	<programme channel="CCTV-1" start="20261113130700 +0800" stop="20261113135500 +0800">
+		<title lang="zh">好好的时光(5)</title>
 	</programme>
 	<channel id="CCTV-10">
 		<display-name lang="zh">CCTV-10</display-name>
@@ -3255,7 +3321,7 @@
 	<programme channel="CCTV-3" start="20261112230200 +0800" stop="20261113000000 +0800">
 		<title lang="zh">综艺喜乐汇</title>
 	</programme>
-	<programme channel="CCTV-3" start="20261113000000 +0800" stop="20261113003400 +0800">
+	<programme channel="CCTV-3" start="20261113000000 +0800" stop="20261113003200 +0800">
 		<title lang="zh">利剑玫瑰(12)</title>
 	</programme>
 	<channel id="CCTV-4">
@@ -8720,5 +8786,50 @@
 	</programme>
 	<programme channel="CCTV-9" start="20261113012700 +0800" stop="20261113022300 +0800">
 		<title lang="zh">魅力万象(316)</title>
+	</programme>
+	<programme channel="CCTV-9" start="20261113022300 +0800" stop="20261113025300 +0800">
+		<title lang="zh">活力·源(316)</title>
+	</programme>
+	<programme channel="CCTV-9" start="20261113025300 +0800" stop="20261113035400 +0800">
+		<title lang="zh">特别呈现(316)</title>
+	</programme>
+	<programme channel="CCTV-9" start="20261113035400 +0800" stop="20261113041100 +0800">
+		<title lang="zh">9视频(316)</title>
+	</programme>
+	<programme channel="CCTV-9" start="20261113041100 +0800" stop="20261113044600 +0800">
+		<title lang="zh">活力·源(316)</title>
+	</programme>
+	<programme channel="CCTV-9" start="20261113044600 +0800" stop="20261113054200 +0800">
+		<title lang="zh">故事中国(278)</title>
+	</programme>
+	<programme channel="CCTV-9" start="20261113054200 +0800" stop="20261113054600 +0800">
+		<title lang="zh">中华人民共和国国歌</title>
+	</programme>
+	<programme channel="CCTV-9" start="20261113054600 +0800" stop="20261113064700 +0800">
+		<title lang="zh">全景自然(316)</title>
+	</programme>
+	<programme channel="CCTV-9" start="20261113064700 +0800" stop="20261113074300 +0800">
+		<title lang="zh">魅力万象(316)</title>
+	</programme>
+	<programme channel="CCTV-9" start="20261113074300 +0800" stop="20261113075900 +0800">
+		<title lang="zh">9视频(316)</title>
+	</programme>
+	<programme channel="CCTV-9" start="20261113075900 +0800" stop="20261113083100 +0800">
+		<title lang="zh">活力·源(316)</title>
+	</programme>
+	<programme channel="CCTV-9" start="20261113083100 +0800" stop="20261113092700 +0800">
+		<title lang="zh">特别呈现(316)</title>
+	</programme>
+	<programme channel="CCTV-9" start="20261113092700 +0800" stop="20261113102600 +0800">
+		<title lang="zh">魅力万象(193)</title>
+	</programme>
+	<programme channel="CCTV-9" start="20261113102600 +0800" stop="20261113112400 +0800">
+		<title lang="zh">寰宇视野(270)</title>
+	</programme>
+	<programme channel="CCTV-9" start="20261113112400 +0800" stop="20261113122700 +0800">
+		<title lang="zh">寰宇视野(290)</title>
+	</programme>
+	<programme channel="CCTV-9" start="20261113122700 +0800" stop="20261113133100 +0800">
+		<title lang="zh">寰宇视野(291)</title>
 	</programme>
 </tv>
